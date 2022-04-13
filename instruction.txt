@@ -1,0 +1,3 @@
+1. Установить visual studio code
+2. В visual studio code в extensions скачать расширение code runner
+3. Установить на комп node js
